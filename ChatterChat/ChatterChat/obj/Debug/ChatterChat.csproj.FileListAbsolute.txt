@@ -1,0 +1,118 @@
+c:\users\thomas\documents\visual studio 2015\Projects\ChatterChat\ChatterChat\bin\roslyn\csc.exe
+c:\users\thomas\documents\visual studio 2015\Projects\ChatterChat\ChatterChat\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+c:\users\thomas\documents\visual studio 2015\Projects\ChatterChat\ChatterChat\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+c:\users\thomas\documents\visual studio 2015\Projects\ChatterChat\ChatterChat\bin\roslyn\Microsoft.CodeAnalysis.dll
+c:\users\thomas\documents\visual studio 2015\Projects\ChatterChat\ChatterChat\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+c:\users\thomas\documents\visual studio 2015\Projects\ChatterChat\ChatterChat\bin\roslyn\Microsoft.CSharp.Core.targets
+c:\users\thomas\documents\visual studio 2015\Projects\ChatterChat\ChatterChat\bin\roslyn\Microsoft.VisualBasic.Core.targets
+c:\users\thomas\documents\visual studio 2015\Projects\ChatterChat\ChatterChat\bin\roslyn\System.Collections.Immutable.dll
+c:\users\thomas\documents\visual studio 2015\Projects\ChatterChat\ChatterChat\bin\roslyn\System.Reflection.Metadata.dll
+c:\users\thomas\documents\visual studio 2015\Projects\ChatterChat\ChatterChat\bin\roslyn\vbc.exe
+c:\users\thomas\documents\visual studio 2015\Projects\ChatterChat\ChatterChat\bin\roslyn\VBCSCompiler.exe
+c:\users\thomas\documents\visual studio 2015\Projects\ChatterChat\ChatterChat\bin\roslyn\VBCSCompiler.exe.config
+c:\users\thomas\documents\visual studio 2015\Projects\ChatterChat\ChatterChat\bin\ChatterChat.dll.config
+c:\users\thomas\documents\visual studio 2015\Projects\ChatterChat\ChatterChat\bin\ChatterChat.dll
+c:\users\thomas\documents\visual studio 2015\Projects\ChatterChat\ChatterChat\bin\ChatterChat.pdb
+c:\users\thomas\documents\visual studio 2015\Projects\ChatterChat\ChatterChat\bin\Antlr3.Runtime.dll
+c:\users\thomas\documents\visual studio 2015\Projects\ChatterChat\ChatterChat\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+c:\users\thomas\documents\visual studio 2015\Projects\ChatterChat\ChatterChat\bin\Microsoft.Web.Infrastructure.dll
+c:\users\thomas\documents\visual studio 2015\Projects\ChatterChat\ChatterChat\bin\Newtonsoft.Json.dll
+c:\users\thomas\documents\visual studio 2015\Projects\ChatterChat\ChatterChat\bin\System.Net.Http.Formatting.dll
+c:\users\thomas\documents\visual studio 2015\Projects\ChatterChat\ChatterChat\bin\System.Web.Helpers.dll
+c:\users\thomas\documents\visual studio 2015\Projects\ChatterChat\ChatterChat\bin\System.Web.Http.dll
+c:\users\thomas\documents\visual studio 2015\Projects\ChatterChat\ChatterChat\bin\System.Web.Http.WebHost.dll
+c:\users\thomas\documents\visual studio 2015\Projects\ChatterChat\ChatterChat\bin\System.Web.Mvc.dll
+c:\users\thomas\documents\visual studio 2015\Projects\ChatterChat\ChatterChat\bin\System.Web.Optimization.dll
+c:\users\thomas\documents\visual studio 2015\Projects\ChatterChat\ChatterChat\bin\System.Web.Razor.dll
+c:\users\thomas\documents\visual studio 2015\Projects\ChatterChat\ChatterChat\bin\System.Web.WebPages.Deployment.dll
+c:\users\thomas\documents\visual studio 2015\Projects\ChatterChat\ChatterChat\bin\System.Web.WebPages.dll
+c:\users\thomas\documents\visual studio 2015\Projects\ChatterChat\ChatterChat\bin\System.Web.WebPages.Razor.dll
+c:\users\thomas\documents\visual studio 2015\Projects\ChatterChat\ChatterChat\bin\WebGrease.dll
+c:\users\thomas\documents\visual studio 2015\Projects\ChatterChat\ChatterChat\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+c:\users\thomas\documents\visual studio 2015\Projects\ChatterChat\ChatterChat\bin\Newtonsoft.Json.xml
+c:\users\thomas\documents\visual studio 2015\Projects\ChatterChat\ChatterChat\bin\System.Net.Http.Formatting.xml
+c:\users\thomas\documents\visual studio 2015\Projects\ChatterChat\ChatterChat\bin\System.Web.Helpers.xml
+c:\users\thomas\documents\visual studio 2015\Projects\ChatterChat\ChatterChat\bin\System.Web.Http.xml
+c:\users\thomas\documents\visual studio 2015\Projects\ChatterChat\ChatterChat\bin\System.Web.Http.WebHost.xml
+c:\users\thomas\documents\visual studio 2015\Projects\ChatterChat\ChatterChat\bin\System.Web.Mvc.xml
+c:\users\thomas\documents\visual studio 2015\Projects\ChatterChat\ChatterChat\bin\System.Web.Optimization.xml
+c:\users\thomas\documents\visual studio 2015\Projects\ChatterChat\ChatterChat\bin\System.Web.Razor.xml
+c:\users\thomas\documents\visual studio 2015\Projects\ChatterChat\ChatterChat\bin\System.Web.WebPages.xml
+c:\users\thomas\documents\visual studio 2015\Projects\ChatterChat\ChatterChat\bin\System.Web.WebPages.Deployment.xml
+c:\users\thomas\documents\visual studio 2015\Projects\ChatterChat\ChatterChat\bin\System.Web.WebPages.Razor.xml
+c:\users\thomas\documents\visual studio 2015\Projects\ChatterChat\ChatterChat\bin\Antlr3.Runtime.pdb
+c:\users\thomas\documents\visual studio 2015\Projects\ChatterChat\ChatterChat\obj\Debug\ChatterChat.dll
+c:\users\thomas\documents\visual studio 2015\Projects\ChatterChat\ChatterChat\obj\Debug\ChatterChat.pdb
+c:\users\thomas\documents\visual studio 2015\Projects\ChatterChat\ChatterChat\bin\EntityFramework.dll
+c:\users\thomas\documents\visual studio 2015\Projects\ChatterChat\ChatterChat\bin\EntityFramework.SqlServer.dll
+c:\users\thomas\documents\visual studio 2015\Projects\ChatterChat\ChatterChat\bin\EntityFramework.xml
+c:\users\thomas\documents\visual studio 2015\Projects\ChatterChat\ChatterChat\bin\EntityFramework.SqlServer.xml
+c:\users\thomas\documents\visual studio 2015\Projects\ChatterChat\ChatterChat\obj\Debug\ChatterChat.Migrations.Initial.resources
+c:\users\thomas\documents\visual studio 2015\Projects\ChatterChat\ChatterChat\obj\Debug\ChatterChat.csproj.GenerateResource.Cache
+c:\users\thomas\documents\visual studio 2015\Projects\ChatterChat\ChatterChat\bin\ChatterChat.dll.CodeAnalysisLog.xml
+c:\users\thomas\documents\visual studio 2015\Projects\ChatterChat\ChatterChat\bin\ChatterChat.dll.lastcodeanalysissucceeded
+C:\Users\Thomas\Source\Repos\Chattr\ChatterChat\ChatterChat\bin\ApplicationInsights.config
+C:\Users\Thomas\Source\Repos\Chattr\ChatterChat\ChatterChat\bin\roslyn\csc.exe
+C:\Users\Thomas\Source\Repos\Chattr\ChatterChat\ChatterChat\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Thomas\Source\Repos\Chattr\ChatterChat\ChatterChat\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Thomas\Source\Repos\Chattr\ChatterChat\ChatterChat\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Thomas\Source\Repos\Chattr\ChatterChat\ChatterChat\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Thomas\Source\Repos\Chattr\ChatterChat\ChatterChat\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Thomas\Source\Repos\Chattr\ChatterChat\ChatterChat\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Thomas\Source\Repos\Chattr\ChatterChat\ChatterChat\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Thomas\Source\Repos\Chattr\ChatterChat\ChatterChat\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Thomas\Source\Repos\Chattr\ChatterChat\ChatterChat\bin\roslyn\vbc.exe
+C:\Users\Thomas\Source\Repos\Chattr\ChatterChat\ChatterChat\bin\roslyn\VBCSCompiler.exe
+C:\Users\Thomas\Source\Repos\Chattr\ChatterChat\ChatterChat\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Thomas\Source\Repos\Chattr\ChatterChat\ChatterChat\bin\ChatterChat.dll.config
+C:\Users\Thomas\Source\Repos\Chattr\ChatterChat\ChatterChat\bin\ChatterChat.dll
+C:\Users\Thomas\Source\Repos\Chattr\ChatterChat\ChatterChat\bin\ChatterChat.pdb
+C:\Users\Thomas\Source\Repos\Chattr\ChatterChat\ChatterChat\bin\Antlr3.Runtime.dll
+C:\Users\Thomas\Source\Repos\Chattr\ChatterChat\ChatterChat\bin\EntityFramework.dll
+C:\Users\Thomas\Source\Repos\Chattr\ChatterChat\ChatterChat\bin\EntityFramework.SqlServer.dll
+C:\Users\Thomas\Source\Repos\Chattr\ChatterChat\ChatterChat\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\Thomas\Source\Repos\Chattr\ChatterChat\ChatterChat\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\Thomas\Source\Repos\Chattr\ChatterChat\ChatterChat\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\Thomas\Source\Repos\Chattr\ChatterChat\ChatterChat\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\Thomas\Source\Repos\Chattr\ChatterChat\ChatterChat\bin\Microsoft.AI.Web.dll
+C:\Users\Thomas\Source\Repos\Chattr\ChatterChat\ChatterChat\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\Thomas\Source\Repos\Chattr\ChatterChat\ChatterChat\bin\Microsoft.ApplicationInsights.dll
+C:\Users\Thomas\Source\Repos\Chattr\ChatterChat\ChatterChat\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Thomas\Source\Repos\Chattr\ChatterChat\ChatterChat\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Thomas\Source\Repos\Chattr\ChatterChat\ChatterChat\bin\Newtonsoft.Json.dll
+C:\Users\Thomas\Source\Repos\Chattr\ChatterChat\ChatterChat\bin\System.Net.Http.Formatting.dll
+C:\Users\Thomas\Source\Repos\Chattr\ChatterChat\ChatterChat\bin\System.Web.Helpers.dll
+C:\Users\Thomas\Source\Repos\Chattr\ChatterChat\ChatterChat\bin\System.Web.Http.dll
+C:\Users\Thomas\Source\Repos\Chattr\ChatterChat\ChatterChat\bin\System.Web.Http.WebHost.dll
+C:\Users\Thomas\Source\Repos\Chattr\ChatterChat\ChatterChat\bin\System.Web.Mvc.dll
+C:\Users\Thomas\Source\Repos\Chattr\ChatterChat\ChatterChat\bin\System.Web.Optimization.dll
+C:\Users\Thomas\Source\Repos\Chattr\ChatterChat\ChatterChat\bin\System.Web.Razor.dll
+C:\Users\Thomas\Source\Repos\Chattr\ChatterChat\ChatterChat\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Thomas\Source\Repos\Chattr\ChatterChat\ChatterChat\bin\System.Web.WebPages.dll
+C:\Users\Thomas\Source\Repos\Chattr\ChatterChat\ChatterChat\bin\System.Web.WebPages.Razor.dll
+C:\Users\Thomas\Source\Repos\Chattr\ChatterChat\ChatterChat\bin\WebGrease.dll
+C:\Users\Thomas\Source\Repos\Chattr\ChatterChat\ChatterChat\bin\EntityFramework.xml
+C:\Users\Thomas\Source\Repos\Chattr\ChatterChat\ChatterChat\bin\EntityFramework.SqlServer.xml
+C:\Users\Thomas\Source\Repos\Chattr\ChatterChat\ChatterChat\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\Thomas\Source\Repos\Chattr\ChatterChat\ChatterChat\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\Thomas\Source\Repos\Chattr\ChatterChat\ChatterChat\bin\Microsoft.AI.Web.xml
+C:\Users\Thomas\Source\Repos\Chattr\ChatterChat\ChatterChat\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\Thomas\Source\Repos\Chattr\ChatterChat\ChatterChat\bin\Microsoft.ApplicationInsights.xml
+C:\Users\Thomas\Source\Repos\Chattr\ChatterChat\ChatterChat\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Thomas\Source\Repos\Chattr\ChatterChat\ChatterChat\bin\Newtonsoft.Json.xml
+C:\Users\Thomas\Source\Repos\Chattr\ChatterChat\ChatterChat\bin\System.Net.Http.Formatting.xml
+C:\Users\Thomas\Source\Repos\Chattr\ChatterChat\ChatterChat\bin\System.Web.Helpers.xml
+C:\Users\Thomas\Source\Repos\Chattr\ChatterChat\ChatterChat\bin\System.Web.Http.xml
+C:\Users\Thomas\Source\Repos\Chattr\ChatterChat\ChatterChat\bin\System.Web.Http.WebHost.xml
+C:\Users\Thomas\Source\Repos\Chattr\ChatterChat\ChatterChat\bin\System.Web.Mvc.xml
+C:\Users\Thomas\Source\Repos\Chattr\ChatterChat\ChatterChat\bin\System.Web.Optimization.xml
+C:\Users\Thomas\Source\Repos\Chattr\ChatterChat\ChatterChat\bin\System.Web.Razor.xml
+C:\Users\Thomas\Source\Repos\Chattr\ChatterChat\ChatterChat\bin\System.Web.WebPages.xml
+C:\Users\Thomas\Source\Repos\Chattr\ChatterChat\ChatterChat\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Thomas\Source\Repos\Chattr\ChatterChat\ChatterChat\bin\System.Web.WebPages.Razor.xml
+C:\Users\Thomas\Source\Repos\Chattr\ChatterChat\ChatterChat\bin\Antlr3.Runtime.pdb
+C:\Users\Thomas\Source\Repos\Chattr\ChatterChat\ChatterChat\obj\Debug\ChatterChat.csprojResolveAssemblyReference.cache
+C:\Users\Thomas\Source\Repos\Chattr\ChatterChat\ChatterChat\obj\Debug\ChatterChat.Migrations.Initial.resources
+C:\Users\Thomas\Source\Repos\Chattr\ChatterChat\ChatterChat\obj\Debug\ChatterChat.csproj.GenerateResource.Cache
+C:\Users\Thomas\Source\Repos\Chattr\ChatterChat\ChatterChat\obj\Debug\ChatterChat.dll
+C:\Users\Thomas\Source\Repos\Chattr\ChatterChat\ChatterChat\obj\Debug\ChatterChat.pdb

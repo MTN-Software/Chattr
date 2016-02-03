@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<parameters>
+  <parameter name="ChatServiceContext-Web.config Connection String" description="ChatServiceContext Connection String used in web.config by the application to access the database." defaultValue="Data Source=(localdb)\MSSQLLocalDB; Initial Catalog=ChatServiceContext-20160131182906; Integrated Security=True; MultipleActiveResultSets=True; AttachDbFilename=|DataDirectory|ChatServiceContext-20160131182906.mdf" tags="SqlConnectionString">
+    <parameterEntry kind="XmlFile" scope="c:\\users\\thomas\\documents\\visual\ studio\ 2015\\Projects\\ChatterChat\\ChatterChat\\obj\\Release\\Package\\PackageTmp\\Web\.config$" match="/configuration/connectionStrings/add[@name='ChatServiceContext']/@connectionString" />
+  </parameter>
+  <parameter name="ChatServiceContext_DatabasePublish-Web.config Connection String" description="ChatServiceContext_DatabasePublish Connection String used in web.config by the application to access the database." defaultValue="ChatServiceContext_DatabasePublish.ConnetionString" tags="SqlConnectionString">
+    <parameterEntry kind="XmlFile" scope="c:\\users\\thomas\\documents\\visual\ studio\ 2015\\Projects\\ChatterChat\\ChatterChat\\obj\\Release\\Package\\PackageTmp\\Web\.config$" match="/configuration/connectionStrings/add[@name='ChatServiceContext_DatabasePublish']/@connectionString" />
+  </parameter>
+</parameters>
